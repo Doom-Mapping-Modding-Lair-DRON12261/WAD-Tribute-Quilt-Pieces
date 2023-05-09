@@ -2,12 +2,14 @@
 
 # STATUS: ✅RELEASED
 
-# Actual screenshots:
+# E4M7 piece screenshots:
 ![Screen1](./screens/1.png)
 ![Screen2](./screens/2.png)
 ![Screen3](./screens/3.png)
 ![Screen4](./screens/4.png)
 ![Screen5](./screens/5.png)
+
+# E4M9 piece screenshots:
 ![Screen6](./screens/6.png)
 ![Screen7](./screens/7.png)
 ![Screen8](./screens/8.png)
